@@ -1680,8 +1680,12 @@ input, select, textarea {
 	}
 
 		#footer > * {
-			width: calc(50% - 2em);
-			margin-left: 2em;
+			width: 100%;
+		}
+
+		#footer img {
+			margin-left: 3em;
+			margin-right: 3em;
 		}
 
 		#footer .copyright {
