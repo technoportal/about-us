@@ -1688,6 +1688,11 @@ input, select, textarea {
 			margin-right: 3em;
 		}
 
+		#footer a {
+			border-bottom: none;
+		}
+
+
 		#footer .copyright {
 			width: 100%;
 			margin: 2.5em 0 2em 0;
